@@ -1,10 +1,10 @@
 {
-  "name": "spotlight.js",
-  "version": "0.7.8",
+  "name": "spotlight-photogallery",
+  "version": "0.1",
   "description": "Modern HTML5 Image Gallery",
   "homepage": "https://github.com/nextapps-de/spotlight/",
-  "author": "Thomas Wilkerling",
-  "copyright": "Nextapps GmbH",
+  "author": "Talo Isik",
+  "copyright": "AlphaOTUKEN",
   "license": "Apache-2.0",
   "keywords": [
     "gallery",
