@@ -7,10 +7,6 @@
 
 The new version includes tons of fixes, new features and improvements which was collected over the last two years. Read the <a href="CHANGELOG.md">Changelog</a> to get all new features.
 
-<h3>Live Demo:<p></p><a href="https://nextapps-de.github.io/spotlight/">https://nextapps-de.github.io/spotlight/ </a></h3>
-
-Spotlight runs out of the box:
-
 - No additional Javascript coding
 - No additional HTML snippets
 - No additional CSS resources
